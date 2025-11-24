@@ -18,7 +18,5 @@ This is a simple expense tracker project built with basic Python and SQLite.
 - transactions.py : functions to add/edit/delete/list
 - reports.py : summary reports
 
-## Notes
-- This is intentionally simple, matching course-level Python.
+## Made With 💖 By Aditya Shukla
 
-- Use the menu options in app to try features.
