@@ -1,4 +1,4 @@
-# Expense Tracker (simple)
+# Expense Tracker
 This is a simple expense tracker project built with basic Python and SQLite.
 
 ## What it does
@@ -20,4 +20,5 @@ This is a simple expense tracker project built with basic Python and SQLite.
 
 ## Notes
 - This is intentionally simple, matching course-level Python.
+
 - Use the menu options in app to try features.
