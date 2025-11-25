@@ -126,10 +126,11 @@ type yes to confirm deletion: yes
 
 * * *
 
-8\. Author
+7\. Author
 ----------
 
 **Name:** Aditya Shukla  
 **Registration No:** 25BAI11125  
 **Faculty Guide:** Dr. Monika Vyas
+
 
