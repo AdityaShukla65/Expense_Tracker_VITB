@@ -1,5 +1,3 @@
- Expense Tracker - README
-
 Expense Tracker (Python + SQLite)
 =================================
 
@@ -128,20 +126,10 @@ type yes to confirm deletion: yes
 
 * * *
 
-7\. Possible Improvements
--------------------------
-
-*   Add income tracking for balance calculation
-*   Export to CSV
-*   Set budget limits for categories
-*   Create a GUI using Tkinter
-*   Password protection for privacy
-
-* * *
-
 8\. Author
 ----------
 
 **Name:** Aditya Shukla  
 **Registration No:** 25BAI11125  
 **Faculty Guide:** Dr. Monika Vyas
+
